@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064630Z
+addr = 0x153f400
+size = 0x2348
+name = "TraceAttack"
+
+[header]
+name = "TraceAttack"
+addr = 0x153f400
+
+[header.args]

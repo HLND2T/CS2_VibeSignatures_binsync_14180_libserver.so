@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065257Z
+addr = 0x21354e0
+size = 0xa6
+name = "CEntityIdentity_FreeAttributes"
+
+[header]
+name = "CEntityIdentity_FreeAttributes"
+addr = 0x21354e0
+
+[header.args]

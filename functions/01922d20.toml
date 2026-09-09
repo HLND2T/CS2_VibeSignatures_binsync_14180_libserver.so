@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065175Z
+addr = 0x1922d20
+size = 0x1167
+name = "CSource2GameEntities_CheckTransmit"
+
+[header]
+name = "CSource2GameEntities_CheckTransmit"
+addr = 0x1922d20
+
+[header.args]

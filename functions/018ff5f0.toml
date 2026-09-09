@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065098Z
+addr = 0x18ff5f0
+size = 0x8b
+name = "CGameRules_GetSaveGameComment"
+
+[header]
+name = "CGameRules_GetSaveGameComment"
+addr = 0x18ff5f0
+
+[header.args]

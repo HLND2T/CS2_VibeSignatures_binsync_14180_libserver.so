@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064610Z
+addr = 0x1504660
+size = 0xc
+name = "CCSPlayerController_InventoryUpdateThink"
+
+[header]
+name = "CCSPlayerController_InventoryUpdateThink"
+addr = 0x1504660
+
+[header.args]

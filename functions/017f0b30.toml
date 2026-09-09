@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064967Z
+addr = 0x17f0b30
+size = 0x5a
+name = "CBaseEntity_Use"
+
+[header]
+name = "CBaseEntity_Use"
+addr = 0x17f0b30
+
+[header.args]

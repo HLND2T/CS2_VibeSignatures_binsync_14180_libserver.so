@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064223Z
+addr = 0xaf63c0
+size = 0x1371
+name = "CCSPlayerPawn_SprayPaint"
+
+[header]
+name = "CCSPlayerPawn_SprayPaint"
+addr = 0xaf63c0
+
+[header.args]

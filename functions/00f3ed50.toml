@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064405Z
+addr = 0xf3ed50
+size = 0x492
+name = "CSpawnGroupMgrGameSystem_OnSpawnGroupPrecache"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_OnSpawnGroupPrecache"
+addr = 0xf3ed50
+
+[header.args]

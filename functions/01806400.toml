@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064990Z
+addr = 0x1806400
+size = 0x11c
+name = "CBaseCombatCharacter_OnKilled"
+
+[header]
+name = "CBaseCombatCharacter_OnKilled"
+addr = 0x1806400
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065368Z
+addr = 0x215a0b0
+size = 0xbf
+name = "CEntitySystem_AddEntityIOEvent"
+
+[header]
+name = "CEntitySystem_AddEntityIOEvent"
+addr = 0x215a0b0
+
+[header.args]

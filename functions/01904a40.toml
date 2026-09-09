@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065133Z
+addr = 0x1904a40
+size = 0x638
+name = "CSource2Server_Connect"
+
+[header]
+name = "CSource2Server_Connect"
+addr = 0x1904a40
+
+[header.args]

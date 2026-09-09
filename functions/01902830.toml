@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065124Z
+addr = 0x1902830
+size = 0x12a
+name = "CSource2Server_BroadcastServerFrameTime"
+
+[header]
+name = "CSource2Server_BroadcastServerFrameTime"
+addr = 0x1902830
+
+[header.args]

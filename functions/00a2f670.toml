@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064171Z
+addr = 0xa2f670
+size = 0x1
+name = "IGameSystem_OnSaveGame"
+
+[header]
+name = "IGameSystem_OnSaveGame"
+addr = 0xa2f670
+
+[header.args]

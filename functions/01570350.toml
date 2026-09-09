@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064654Z
+addr = 0x1570350
+size = 0xb59
+name = "CCSPlayer_UseServices_BumpWeapon"
+
+[header]
+name = "CCSPlayer_UseServices_BumpWeapon"
+addr = 0x1570350
+
+[header.args]

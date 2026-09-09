@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065205Z
+addr = 0x19c38f0
+size = 0x162
+name = "PhysEnableEntityCollisions"
+
+[header]
+name = "PhysEnableEntityCollisions"
+addr = 0x19c38f0
+
+[header.args]

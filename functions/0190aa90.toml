@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065147Z
+addr = 0x190aa90
+size = 0xc0
+name = "CSource2Server_OnHostNameChanged"
+
+[header]
+name = "CSource2Server_OnHostNameChanged"
+addr = 0x190aa90
+
+[header.args]

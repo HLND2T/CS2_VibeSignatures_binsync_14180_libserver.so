@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065149Z
+addr = 0x190ab50
+size = 0x1b2
+name = "CSource2GameClients_ClientActive"
+
+[header]
+name = "CSource2GameClients_ClientActive"
+addr = 0x190ab50
+
+[header.args]

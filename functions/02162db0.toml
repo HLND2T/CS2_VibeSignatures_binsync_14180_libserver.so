@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065383Z
+addr = 0x2162db0
+size = 0x26
+name = "CEntityInstance_NetworkUpdateState_thunk"
+
+[header]
+name = "CEntityInstance_NetworkUpdateState_thunk"
+addr = 0x2162db0
+
+[header.args]

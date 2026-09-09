@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065180Z
+addr = 0x1935e10
+size = 0xf5
+name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
+
+[header]
+name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
+addr = 0x1935e10
+
+[header.args]

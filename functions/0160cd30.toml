@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064731Z
+addr = 0x160cd30
+size = 0x55
+name = "CBaseModelEntity_Script_SetSkin"
+
+[header]
+name = "CBaseModelEntity_Script_SetSkin"
+addr = 0x160cd30
+
+[header.args]

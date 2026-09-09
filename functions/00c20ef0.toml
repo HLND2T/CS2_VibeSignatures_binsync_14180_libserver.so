@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064297Z
+addr = 0xc20ef0
+size = 0x25
+name = "CCSBot_MoveTo"
+
+[header]
+name = "CCSBot_MoveTo"
+addr = 0xc20ef0
+
+[header.args]

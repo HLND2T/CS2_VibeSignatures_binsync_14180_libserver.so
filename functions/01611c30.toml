@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064740Z
+addr = 0x1611c30
+size = 0x1c0
+name = "CBasePlayerPawn_GetEyeAngles"
+
+[header]
+name = "CBasePlayerPawn_GetEyeAngles"
+addr = 0x1611c30
+
+[header.args]

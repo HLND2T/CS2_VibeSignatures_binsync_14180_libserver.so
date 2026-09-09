@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065350Z
+addr = 0x21541f0
+size = 0x1c3
+name = "CEntitySystem_ExecuteQueuedCreation"
+
+[header]
+name = "CEntitySystem_ExecuteQueuedCreation"
+addr = 0x21541f0
+
+[header.args]

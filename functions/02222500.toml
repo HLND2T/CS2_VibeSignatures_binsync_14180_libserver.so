@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065387Z
+addr = 0x2222500
+size = 0x3739
+name = "CNavMesh_GetNearestNavArea"
+
+[header]
+name = "CNavMesh_GetNearestNavArea"
+addr = 0x2222500
+
+[header.args]

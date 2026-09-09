@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065117Z
+addr = 0x1901c20
+size = 0x1b2
+name = "CSource2GameClients_GetBugReportInfo"
+
+[header]
+name = "CSource2GameClients_GetBugReportInfo"
+addr = 0x1901c20
+
+[header.args]

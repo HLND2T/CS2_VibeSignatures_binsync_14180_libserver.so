@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065269Z
+addr = 0x2136500
+size = 0x12a
+name = "CEntityInstance_dtor"
+
+[header]
+name = "CEntityInstance_dtor"
+addr = 0x2136500
+
+[header.args]

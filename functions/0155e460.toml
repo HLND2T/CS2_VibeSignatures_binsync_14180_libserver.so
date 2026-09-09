@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:22.497356Z
+addr = 0x155e460
+size = 0xa50
+name = "GiveNamedItem"
+
+[header]
+name = "GiveNamedItem"
+addr = 0x155e460
+
+[header.args]

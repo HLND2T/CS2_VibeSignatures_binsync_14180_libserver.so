@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064907Z
+addr = 0x174d0d0
+size = 0x229
+name = "CLoopModeGame_OnLoopActivate"
+
+[header]
+name = "CLoopModeGame_OnLoopActivate"
+addr = 0x174d0d0
+
+[header.args]

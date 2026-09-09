@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064909Z
+addr = 0x174d4b0
+size = 0x6f
+name = "CLoopModeFactory_CLoopModeGame_Shutdown"
+
+[header]
+name = "CLoopModeFactory_CLoopModeGame_Shutdown"
+addr = 0x174d4b0
+
+[header.args]

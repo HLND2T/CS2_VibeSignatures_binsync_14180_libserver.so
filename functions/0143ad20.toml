@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064597Z
+addr = 0x143ad20
+size = 0x897
+name = "CSmokeGrenadeProjectile_Create"
+
+[header]
+name = "CSmokeGrenadeProjectile_Create"
+addr = 0x143ad20
+
+[header.args]

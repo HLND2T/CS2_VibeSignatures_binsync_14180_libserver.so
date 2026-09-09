@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065301Z
+addr = 0x213fd80
+size = 0x63
+name = "CEntitySystem_AddRefKeyValues"
+
+[header]
+name = "CEntitySystem_AddRefKeyValues"
+addr = 0x213fd80
+
+[header.args]

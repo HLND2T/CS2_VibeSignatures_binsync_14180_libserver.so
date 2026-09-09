@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064827Z
+addr = 0x16dc800
+size = 0x6
+name = "CGameEventManager_Shutdown"
+
+[header]
+name = "CGameEventManager_Shutdown"
+addr = 0x16dc800
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064952Z
+addr = 0x17bff70
+size = 0xd02
+name = "UTIL_ClientPrintFilter"
+
+[header]
+name = "UTIL_ClientPrintFilter"
+addr = 0x17bff70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064687Z
+addr = 0x15c2720
+size = 0x22e
+name = "CTakeDamageInfo_GetWeaponName"
+
+[header]
+name = "CTakeDamageInfo_GetWeaponName"
+addr = 0x15c2720
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064176Z
+addr = 0xa2fd00
+size = 0xc
+name = "CBaseEntity_FullEdictChanged"
+
+[header]
+name = "CBaseEntity_FullEdictChanged"
+addr = 0xa2fd00
+
+[header.args]

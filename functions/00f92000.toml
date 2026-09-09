@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064437Z
+addr = 0xf92000
+size = 0x26
+name = "CBaseEntity_ScriptEyePosition"
+
+[header]
+name = "CBaseEntity_ScriptEyePosition"
+addr = 0xf92000
+
+[header.args]

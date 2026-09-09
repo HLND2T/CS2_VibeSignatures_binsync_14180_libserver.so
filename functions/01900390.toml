@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065107Z
+addr = 0x1900390
+size = 0xa
+name = "CSource2GameClients_ClientSetConVarUserInfoSet"
+
+[header]
+name = "CSource2GameClients_ClientSetConVarUserInfoSet"
+addr = 0x1900390
+
+[header.args]

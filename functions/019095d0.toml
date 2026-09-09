@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065140Z
+addr = 0x19095d0
+size = 0x215
+name = "CSource2GameClients_ClientSetupVisibility"
+
+[header]
+name = "CSource2GameClients_ClientSetupVisibility"
+addr = 0x19095d0
+
+[header.args]

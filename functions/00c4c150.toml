@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064302Z
+addr = 0xc4c150
+size = 0x57c
+name = "CBtActionCoordinatedBuy_Update"
+
+[header]
+name = "CBtActionCoordinatedBuy_Update"
+addr = 0xc4c150
+
+[header.args]

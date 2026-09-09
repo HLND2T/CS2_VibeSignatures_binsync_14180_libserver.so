@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065304Z
+addr = 0x21407f0
+size = 0x435
+name = "CEntitySystem_Spawn"
+
+[header]
+name = "CEntitySystem_Spawn"
+addr = 0x21407f0
+
+[header.args]

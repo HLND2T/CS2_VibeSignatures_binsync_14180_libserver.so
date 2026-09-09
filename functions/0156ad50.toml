@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064652Z
+addr = 0x156ad50
+size = 0x26
+name = "CCSPlayerPawn_OnTakeDamage_Alive"
+
+[header]
+name = "CCSPlayerPawn_OnTakeDamage_Alive"
+addr = 0x156ad50
+
+[header.args]

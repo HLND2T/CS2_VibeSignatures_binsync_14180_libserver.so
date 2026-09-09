@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064997Z
+addr = 0x1809120
+size = 0x164
+name = "CBaseEntity_GetContextForScript"
+
+[header]
+name = "CBaseEntity_GetContextForScript"
+addr = 0x1809120
+
+[header.args]

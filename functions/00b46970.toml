@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064253Z
+addr = 0xb46970
+size = 0x28d
+name = "CCSPlayerPawnBase_CheckForIdleInternal"
+
+[header]
+name = "CCSPlayerPawnBase_CheckForIdleInternal"
+addr = 0xb46970
+
+[header.args]

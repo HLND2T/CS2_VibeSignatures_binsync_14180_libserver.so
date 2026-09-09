@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064696Z
+addr = 0x15caf60
+size = 0x4f6
+name = "CCSPlayer_WeaponServices_HandleDropWeapon"
+
+[header]
+name = "CCSPlayer_WeaponServices_HandleDropWeapon"
+addr = 0x15caf60
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065197Z
+addr = 0x1987b00
+size = 0x2c
+name = "CBaseEntity_VPhysicsEndTouch"
+
+[header]
+name = "CBaseEntity_VPhysicsEndTouch"
+addr = 0x1987b00
+
+[header.args]

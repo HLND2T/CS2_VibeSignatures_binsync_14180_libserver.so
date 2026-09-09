@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065031Z
+addr = 0x1813970
+size = 0x382
+name = "CMomentaryRotButton_Use"
+
+[header]
+name = "CMomentaryRotButton_Use"
+addr = 0x1813970
+
+[header.args]

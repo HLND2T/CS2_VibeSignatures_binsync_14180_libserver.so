@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064958Z
+addr = 0x17db6c0
+size = 0x9b3
+name = "CSkeletonInstance_PostDataUpdate"
+
+[header]
+name = "CSkeletonInstance_PostDataUpdate"
+addr = 0x17db6c0
+
+[header.args]

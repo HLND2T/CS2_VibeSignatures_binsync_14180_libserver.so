@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065355Z
+addr = 0x2154e50
+size = 0x140
+name = "CEntitySystem_QueueDestroyEntity"
+
+[header]
+name = "CEntitySystem_QueueDestroyEntity"
+addr = 0x2154e50
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064636Z
+addr = 0x1556670
+size = 0xee8
+name = "CBasePlayerController_HandleCommand_JoinTeam"
+
+[header]
+name = "CBasePlayerController_HandleCommand_JoinTeam"
+addr = 0x1556670
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064947Z
+addr = 0x17b8380
+size = 0x33
+name = "UTIL_PlayerSlotToPlayerController"
+
+[header]
+name = "UTIL_PlayerSlotToPlayerController"
+addr = 0x17b8380
+
+[header.args]

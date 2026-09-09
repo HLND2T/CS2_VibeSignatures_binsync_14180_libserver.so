@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064218Z
+addr = 0xaf3850
+size = 0x7d9
+name = "CCSPlayerPawn_ClientCommand"
+
+[header]
+name = "CCSPlayerPawn_ClientCommand"
+addr = 0xaf3850
+
+[header.args]

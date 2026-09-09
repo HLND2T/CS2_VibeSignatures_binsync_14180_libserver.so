@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064307Z
+addr = 0xcc2ee0
+size = 0x192c
+name = "CInferno_InfernoThink"
+
+[header]
+name = "CInferno_InfernoThink"
+addr = 0xcc2ee0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065045Z
+addr = 0x1834b60
+size = 0x1357
+name = "CBaseEntity_ctor"
+
+[header]
+name = "CBaseEntity_ctor"
+addr = 0x1834b60
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065128Z
+addr = 0x19031a0
+size = 0x7a
+name = "CGameRules_GetChatPrefix"
+
+[header]
+name = "CGameRules_GetChatPrefix"
+addr = 0x19031a0
+
+[header.args]

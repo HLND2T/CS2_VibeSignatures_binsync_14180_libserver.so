@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064694Z
+addr = 0x15ca4b0
+size = 0xaa5
+name = "CCSPlayer_WeaponServices_PickupItem"
+
+[header]
+name = "CCSPlayer_WeaponServices_PickupItem"
+addr = 0x15ca4b0
+
+[header.args]

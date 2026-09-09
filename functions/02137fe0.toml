@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065276Z
+addr = 0x2137fe0
+size = 0x68
+name = "CEntityInstance_AcceptInput"
+
+[header]
+name = "CEntityInstance_AcceptInput"
+addr = 0x2137fe0
+
+[header.args]

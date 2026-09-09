@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064261Z
+addr = 0xbc38a0
+size = 0x11f5
+name = "FireBullets"
+
+[header]
+name = "FireBullets"
+addr = 0xbc38a0
+
+[header.args]

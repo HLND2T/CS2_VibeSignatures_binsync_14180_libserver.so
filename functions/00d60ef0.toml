@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064343Z
+addr = 0xd60ef0
+size = 0x35b
+name = "CBaseEntity_ScriptSetGravityScale"
+
+[header]
+name = "CBaseEntity_ScriptSetGravityScale"
+addr = 0xd60ef0
+
+[header.args]

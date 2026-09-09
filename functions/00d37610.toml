@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064321Z
+addr = 0xd37610
+size = 0x287
+name = "CBaseEntity_ModifyOrAppendCriteria"
+
+[header]
+name = "CBaseEntity_ModifyOrAppendCriteria"
+addr = 0xd37610
+
+[header.args]

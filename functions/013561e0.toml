@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064574Z
+addr = 0x13561e0
+size = 0x57a
+name = "CHostage_Follow"
+
+[header]
+name = "CHostage_Follow"
+addr = 0x13561e0
+
+[header.args]

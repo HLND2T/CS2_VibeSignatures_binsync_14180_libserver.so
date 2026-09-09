@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064354Z
+addr = 0xd63600
+size = 0xd15
+name = "CBaseEntity_TakeDamageOld"
+
+[header]
+name = "CBaseEntity_TakeDamageOld"
+addr = 0xd63600
+
+[header.args]

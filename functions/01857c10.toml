@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065064Z
+addr = 0x1857c10
+size = 0x25
+name = "CEnvEntityIgniter_Precache"
+
+[header]
+name = "CEnvEntityIgniter_Precache"
+addr = 0x1857c10
+
+[header.args]

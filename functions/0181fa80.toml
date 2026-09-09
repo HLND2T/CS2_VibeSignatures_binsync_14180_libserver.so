@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065038Z
+addr = 0x181fa80
+size = 0x693
+name = "GiveCommand"
+
+[header]
+name = "GiveCommand"
+addr = 0x181fa80
+
+[header.args]

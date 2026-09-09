@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065381Z
+addr = 0x2162bf0
+size = 0xd3
+name = "EntityInstanceAssignChangeAccessorPathIds"
+
+[header]
+name = "EntityInstanceAssignChangeAccessorPathIds"
+addr = 0x2162bf0
+
+[header.args]

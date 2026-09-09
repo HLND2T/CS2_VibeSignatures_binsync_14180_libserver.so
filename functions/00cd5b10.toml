@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064313Z
+addr = 0xcd5b10
+size = 0x68c
+name = "CHostage_DropHostage"
+
+[header]
+name = "CHostage_DropHostage"
+addr = 0xcd5b10
+
+[header.args]

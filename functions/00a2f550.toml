@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064145Z
+addr = 0xa2f550
+size = 0x1
+name = "IGameSystem_OnServerPostEntityThink"
+
+[header]
+name = "IGameSystem_OnServerPostEntityThink"
+addr = 0xa2f550
+
+[header.args]

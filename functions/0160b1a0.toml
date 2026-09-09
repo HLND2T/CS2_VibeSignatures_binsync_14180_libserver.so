@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064725Z
+addr = 0x160b1a0
+size = 0x3f
+name = "CBaseModelEntity_ScriptGetAttachmentForward"
+
+[header]
+name = "CBaseModelEntity_ScriptGetAttachmentForward"
+addr = 0x160b1a0
+
+[header.args]

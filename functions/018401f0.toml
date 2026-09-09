@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065051Z
+addr = 0x18401f0
+size = 0xc6
+name = "CBaseEntity_AddContextForScriptNumeric"
+
+[header]
+name = "CBaseEntity_AddContextForScriptNumeric"
+addr = 0x18401f0
+
+[header.args]

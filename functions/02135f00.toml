@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065265Z
+addr = 0x2135f00
+size = 0x22
+name = "CEntityInstance_PostDataUpdateDelta"
+
+[header]
+name = "CEntityInstance_PostDataUpdateDelta"
+addr = 0x2135f00
+
+[header.args]

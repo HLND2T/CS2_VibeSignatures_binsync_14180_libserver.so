@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064778Z
+addr = 0x16b1600
+size = 0xe
+name = "CEntitySaveRestoreBlockHandler_PostRestore"
+
+[header]
+name = "CEntitySaveRestoreBlockHandler_PostRestore"
+addr = 0x16b1600
+
+[header.args]

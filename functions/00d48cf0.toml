@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064341Z
+addr = 0xd48cf0
+size = 0x61f
+name = "CBaseEntity_SetAbsVelocity"
+
+[header]
+name = "CBaseEntity_SetAbsVelocity"
+addr = 0xd48cf0
+
+[header.args]

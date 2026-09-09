@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064700Z
+addr = 0x15f26b0
+size = 0x83
+name = "CBasePlayerPawn_PrePhysicsSimulate"
+
+[header]
+name = "CBasePlayerPawn_PrePhysicsSimulate"
+addr = 0x15f26b0
+
+[header.args]

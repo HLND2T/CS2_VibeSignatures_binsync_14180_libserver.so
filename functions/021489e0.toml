@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065320Z
+addr = 0x21489e0
+size = 0x22a
+name = "CEntitySystem_AddEntityIOEventBuildStruct"
+
+[header]
+name = "CEntitySystem_AddEntityIOEventBuildStruct"
+addr = 0x21489e0
+
+[header.args]

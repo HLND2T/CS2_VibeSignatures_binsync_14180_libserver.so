@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064279Z
+addr = 0xc10680
+size = 0xacc
+name = "CCSBot_ComputePath"
+
+[header]
+name = "CCSBot_ComputePath"
+addr = 0xc10680
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065173Z
+addr = 0x1918b60
+size = 0x3d9
+name = "CSource2GameClients_SendHLTVStatusMessage"
+
+[header]
+name = "CSource2GameClients_SendHLTVStatusMessage"
+addr = 0x1918b60
+
+[header.args]

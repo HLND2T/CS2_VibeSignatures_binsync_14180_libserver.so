@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064202Z
+addr = 0xaa2a90
+size = 0x615
+name = "CNetworkTransmitComponent_StateChanged"
+
+[header]
+name = "CNetworkTransmitComponent_StateChanged"
+addr = 0xaa2a90
+
+[header.args]

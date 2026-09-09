@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064912Z
+addr = 0x1752940
+size = 0x7aa
+name = "DispatchParticleEffect"
+
+[header]
+name = "DispatchParticleEffect"
+addr = 0x1752940
+
+[header.args]

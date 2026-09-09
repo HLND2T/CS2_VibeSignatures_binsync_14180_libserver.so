@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065324Z
+addr = 0x214aa50
+size = 0x54
+name = "CEntitySystem_FindComponentTypeByName"
+
+[header]
+name = "CEntitySystem_FindComponentTypeByName"
+addr = 0x214aa50
+
+[header.args]

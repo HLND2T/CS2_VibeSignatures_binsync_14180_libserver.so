@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064207Z
+addr = 0xacd0e0
+size = 0xeaa
+name = "CSource2Server_ApplyGameSettings"
+
+[header]
+name = "CSource2Server_ApplyGameSettings"
+addr = 0xacd0e0
+
+[header.args]

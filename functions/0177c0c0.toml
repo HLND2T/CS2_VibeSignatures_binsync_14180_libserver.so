@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064938Z
+addr = 0x177c0c0
+size = 0x4bc
+name = "CCSPlayer_MovementServices_ProcessMovement"
+
+[header]
+name = "CCSPlayer_MovementServices_ProcessMovement"
+addr = 0x177c0c0
+
+[header.args]

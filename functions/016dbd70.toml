@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064820Z
+addr = 0x16dbd70
+size = 0x65
+name = "UTIL_PrecacheOther"
+
+[header]
+name = "UTIL_PrecacheOther"
+addr = 0x16dbd70
+
+[header.args]

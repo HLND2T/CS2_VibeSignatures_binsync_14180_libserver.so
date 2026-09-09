@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064849Z
+addr = 0x1713340
+size = 0x716
+name = "CGameEntitySystem_BuildResourceManifest_KeyValuesVectors"
+
+[header]
+name = "CGameEntitySystem_BuildResourceManifest_KeyValuesVectors"
+addr = 0x1713340
+
+[header.args]

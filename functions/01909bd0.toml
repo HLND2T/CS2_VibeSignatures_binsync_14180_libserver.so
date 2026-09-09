@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065145Z
+addr = 0x1909bd0
+size = 0x1ce
+name = "CSource2GameClients_ClientFullyConnect"
+
+[header]
+name = "CSource2GameClients_ClientFullyConnect"
+addr = 0x1909bd0
+
+[header.args]

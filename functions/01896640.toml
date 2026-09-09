@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065067Z
+addr = 0x1896640
+size = 0x68
+name = "CBreakable_DamageDecal"
+
+[header]
+name = "CBreakable_DamageDecal"
+addr = 0x1896640
+
+[header.args]

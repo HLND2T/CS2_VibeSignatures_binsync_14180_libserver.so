@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065306Z
+addr = 0x2143250
+size = 0x4dd
+name = "CConcreteEntityList_FreeEntity"
+
+[header]
+name = "CConcreteEntityList_FreeEntity"
+addr = 0x2143250
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065267Z
+addr = 0x2136470
+size = 0x90
+name = "CEntityInstance_ValidatePrivateScriptScope"
+
+[header]
+name = "CEntityInstance_ValidatePrivateScriptScope"
+addr = 0x2136470
+
+[header.args]

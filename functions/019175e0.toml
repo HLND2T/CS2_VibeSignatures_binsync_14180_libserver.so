@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065170Z
+addr = 0x19175e0
+size = 0x8d0
+name = "CSource2GameClients_ClientDiagnostic"
+
+[header]
+name = "CSource2GameClients_ClientDiagnostic"
+addr = 0x19175e0
+
+[header.args]

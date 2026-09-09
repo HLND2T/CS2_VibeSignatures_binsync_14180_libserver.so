@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064736Z
+addr = 0x160e820
+size = 0x58
+name = "CBasePlayerController_IsFakeClient"
+
+[header]
+name = "CBasePlayerController_IsFakeClient"
+addr = 0x160e820
+
+[header.args]

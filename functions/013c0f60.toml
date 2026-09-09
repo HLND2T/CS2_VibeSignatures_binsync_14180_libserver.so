@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064576Z
+addr = 0x13c0f60
+size = 0x44d
+name = "GameSystem_Think_CheckSteamBan"
+
+[header]
+name = "GameSystem_Think_CheckSteamBan"
+addr = 0x13c0f60
+
+[header.args]

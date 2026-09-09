@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064943Z
+addr = 0x17b78e0
+size = 0x54
+name = "UTIL_PlayerSlotToPlayerPawn"
+
+[header]
+name = "UTIL_PlayerSlotToPlayerPawn"
+addr = 0x17b78e0
+
+[header.args]

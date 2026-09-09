@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064299Z
+addr = 0xc26ff0
+size = 0x19b
+name = "CCSBot_Attack"
+
+[header]
+name = "CCSBot_Attack"
+addr = 0xc26ff0
+
+[header.args]

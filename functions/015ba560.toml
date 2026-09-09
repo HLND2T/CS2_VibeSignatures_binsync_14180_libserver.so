@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064682Z
+addr = 0x15ba560
+size = 0x11
+name = "CBasePlayerPawn_RemovePlayerItem"
+
+[header]
+name = "CBasePlayerPawn_RemovePlayerItem"
+addr = 0x15ba560
+
+[header.args]

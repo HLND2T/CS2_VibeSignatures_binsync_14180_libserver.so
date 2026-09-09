@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065376Z
+addr = 0x2162310
+size = 0x88
+name = "CEntitySystem_CreateEntitySystem"
+
+[header]
+name = "CEntitySystem_CreateEntitySystem"
+addr = 0x2162310
+
+[header.args]

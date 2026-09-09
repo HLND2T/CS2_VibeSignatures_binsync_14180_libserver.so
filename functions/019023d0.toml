@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065120Z
+addr = 0x19023d0
+size = 0xa3
+name = "CSource2GameEntities_ShouldClientReceiveStringTableUserData"
+
+[header]
+name = "CSource2GameEntities_ShouldClientReceiveStringTableUserData"
+addr = 0x19023d0
+
+[header.args]

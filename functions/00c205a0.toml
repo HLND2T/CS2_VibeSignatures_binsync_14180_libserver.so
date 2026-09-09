@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064292Z
+addr = 0xc205a0
+size = 0x10a
+name = "CCSBot_SetState"
+
+[header]
+name = "CCSBot_SetState"
+addr = 0xc205a0
+
+[header.args]

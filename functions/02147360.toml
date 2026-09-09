@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065312Z
+addr = 0x2147360
+size = 0x32f
+name = "CEntitySystem_ExecuteQueuedPostDataUpdateAndActivates"
+
+[header]
+name = "CEntitySystem_ExecuteQueuedPostDataUpdateAndActivates"
+addr = 0x2147360
+
+[header.args]

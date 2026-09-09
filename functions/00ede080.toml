@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064380Z
+addr = 0xede080
+size = 0x1d9
+name = "IGameSystem_DestroyAllGameSystems"
+
+[header]
+name = "IGameSystem_DestroyAllGameSystems"
+addr = 0xede080
+
+[header.args]

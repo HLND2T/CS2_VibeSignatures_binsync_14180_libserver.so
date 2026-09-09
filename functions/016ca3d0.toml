@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064788Z
+addr = 0x16ca3d0
+size = 0x270
+name = "CGameEntitySystem_FindEntityProcedural"
+
+[header]
+name = "CGameEntitySystem_FindEntityProcedural"
+addr = 0x16ca3d0
+
+[header.args]

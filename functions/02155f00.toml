@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065357Z
+addr = 0x2155f00
+size = 0x24a
+name = "CEntitySystem_RegisterEntityClass"
+
+[header]
+name = "CEntitySystem_RegisterEntityClass"
+addr = 0x2155f00
+
+[header.args]

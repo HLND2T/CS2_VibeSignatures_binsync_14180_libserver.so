@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064963Z
+addr = 0x17edf50
+size = 0x1aa
+name = "CBaseEntity_VPhysicsCollision"
+
+[header]
+name = "CBaseEntity_VPhysicsCollision"
+addr = 0x17edf50
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064286Z
+addr = 0xc1b050
+size = 0x1e8
+name = "BotKill_CommandHandler"
+
+[header]
+name = "BotKill_CommandHandler"
+addr = 0xc1b050
+
+[header.args]

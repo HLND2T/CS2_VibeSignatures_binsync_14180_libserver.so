@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.064571Z
+addr = 0x1345790
+size = 0x362
+name = "CCSGameRules_PlayerSpawn"
+
+[header]
+name = "CCSGameRules_PlayerSpawn"
+addr = 0x1345790
+
+[header.args]

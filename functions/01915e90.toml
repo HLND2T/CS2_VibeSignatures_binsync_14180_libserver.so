@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:19:01.065166Z
+addr = 0x1915e90
+size = 0x452
+name = "CSource2GameClients_ProcessUsercmds"
+
+[header]
+name = "CSource2GameClients_ProcessUsercmds"
+addr = 0x1915e90
+
+[header.args]
